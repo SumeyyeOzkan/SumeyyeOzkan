@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Android and test
 - 🌱 I’m currently learning Android with kotlin 
-- ⚡ Fun fact: ride a bike, play chess, fitness, prepare cook
 
 <h3 align="center">A passionate software developer from Turkey</h3>
 
@@ -21,7 +20,7 @@
 
 Here are some ideas to get you started:
 
-
+- ⚡ Fun fact: ride a bike, play chess, fitness, prepare cook
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
