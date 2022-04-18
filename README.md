@@ -1,5 +1,7 @@
 ### Hi there 👋<br>
 
+<img align="right" height="270px" alt="guy" width="350" src="https://user-images.githubusercontent.com/34382382/163877581-21d0b0e6-f67a-4607-8db5-6659037e0d39.gif" /> </a>
+
 - 🔭 I’m currently working on Android and test
 - 🌱 I’m currently learning Android with kotlin 
 
